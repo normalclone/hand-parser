@@ -24,4 +24,4 @@ This is an implementation of [mediapipe](https://github.com/google/mediapipe) in
 ## Demo
 ![Demo](demo.gif)
 ## License
-`Apache2 License`
+`Apache License 2.0`
