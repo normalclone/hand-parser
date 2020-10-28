@@ -13,7 +13,7 @@ def main():
     detector = models_init()
     while hasFrame:
         points, _ = detector(frame.copy())
-        gesture = None
+        gesture = Noneq
         if points is not None:
             gesture = htutils.recog_gesture(points)
             synthesized_img = draw_keypoints(frame, points)
