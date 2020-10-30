@@ -15,6 +15,8 @@ This is an implementation of [mediapipe](https://github.com/google/mediapipe) in
 ## Usage
 1. Install required dependencies.
 2. run `python app.py`
+3. run `python app-mouse.py` to control mouse with your index finger. Use action `"2"` to click.
+`Due to this project doesn't allow GPU, and low FPS, I'll stop developing this function`
 ## Custom
 - You can base on the points detected by `mediapipe` to predict or config the label
 
