@@ -7,7 +7,7 @@ This is an implementation of [mediapipe](https://github.com/google/mediapipe) in
 
 `TensorFlow2.0(GPU is unnecessary)`
 
-`PyTorch-GPU >= 1.1`
+`PyTorch >= 1.1`
 
 `Numpy`
 
